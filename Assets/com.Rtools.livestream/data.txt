@@ -1,0 +1,8 @@
+﻿{ 
+  "PlayerType":1,
+  "IPAddress": "172.16.1.75",
+  "PortNo":"8010",
+  "Width": "1280",
+  "Height": "720",
+  "Webcam":1
+}
